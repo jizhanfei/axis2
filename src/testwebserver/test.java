@@ -13,6 +13,8 @@ public class test {
     
         try {
             //本机tomcat端口默认为8081,参数是wsdl网址的一部分
+        	//testwebserver.test
+        	///testaxis2webservice/src/testwebserver/test.java
             EndpointReference targetEPR = new EndpointReference("http://localhost:8080/testaxis2webservice/services/Testservice");  
             RPCServiceClient sender = new RPCServiceClient();  
             Options options = sender.getOptions();  
