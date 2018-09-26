@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="testaxis2webservice"
+  id="myeclipse.1537951583651"
+  context-root="/testaxis2webservice"
+  j2ee-spec="5.0"
+  archive="testaxis2webservice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
